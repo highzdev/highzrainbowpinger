@@ -1,2 +1,1 @@
-# highzrainbowpinger
-highz#0001's Rainbow Pinger.
+go to the pinger.bat folder to begin
