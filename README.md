@@ -1,1 +1,1 @@
-go to the pinger.bat folder to begin
+make a new notepad on your desktop and name it whatever you want but make sure it has .bat behind it. it will turn into a .bat file then right click on it and hit edit and paste the code in pinger.bat and change the part to "Got Fucked With My Schythe" To whatever you want it to say when it pings the ip. Also You can change the title and the creator but i would keep the creator for credits because all of my code has a license. Hope you enjoy the pinger.
